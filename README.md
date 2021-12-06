@@ -3,7 +3,7 @@
 My journey began in 2011, writing my first line of code in Java. I started to create plugins for the popular game Minecraft and created multiple Networks with more than 400 concurrent Users playing my minigames. 
 With that, I laid the stones for my career. A couple of years later, I started my apprenticeship as It-Technician in the hardware spectrum but never stopped programming in my free time. I coded everything from little 2D platformers to business applications, and I was constantly learning to take the next step. In the last year, I worked 40 hours as a Developer for Amundi as well as 
 CTO for a startup where I constantly created, adapted, and changed features. I implemented a standard
-tracking features and ensuring that the code delivered to production had no code smell and was simple to understand, stable, and re-useable. 
+tracking features and ensuring that the code delivered to production had no code smell, was simple to understand, stable, and re-useable. 
 
 I am currently taking the next step with advancing in algorithms and problem solving to properly handle time and space to tickle every bit of resource out of a system.
 
