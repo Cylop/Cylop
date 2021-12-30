@@ -7,6 +7,7 @@ I am currently taking the next step with advancing in algorithms and problem sol
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Cylop)](https://github.com/LordDashMe/github-contribution-stats/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cylop&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Cylop/Cylop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
