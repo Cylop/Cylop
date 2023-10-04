@@ -34,4 +34,4 @@ I am currently taking the next step with advancing in algorithms and problem sol
 
 <!-- [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Cylop)](https://github.com/LordDashMe/github-contribution-stats/) -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cylop" alt="cylop" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cylop&theme=chalk" alt="cylop" /></p>
