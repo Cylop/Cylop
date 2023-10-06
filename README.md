@@ -20,7 +20,7 @@ I am currently taking the next step with advancing in algorithms and problem sol
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cylop&theme=chalk" alt="cylop" /></a> </p>
 
-- 📫 How to reach me **nicholas.petrasek@nipe.at**
+- 📫 How to reach me **nicholas.petrasek@nipesolutions.com**
 
 <!-- [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Cylop)](https://github.com/LordDashMe/github-contribution-stats/) -->
 
